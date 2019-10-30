@@ -2,6 +2,7 @@
 
 /**
  *  Representa a un cliente que hace un pedido 
+ *  @author David Ganuza
  */
 public class Cliente
 {
@@ -52,8 +53,9 @@ public class Cliente
      * representación textual del cliente
      */
     public String toString() {
-         
-          
+         String aux = "    Nombre:" + nombre + " Direccion:" + direccion + "    Ciudad:" + ciudad
+         + " Provincia:" + provincia;
+         return aux;         
     }
     
     /**

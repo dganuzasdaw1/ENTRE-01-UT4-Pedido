@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LineaPedido
+comment0.text=\r\n\ \ Describe\ una\ l\u00EDnea\ de\ un\ pedido\r\n\ \ En\ una\ l\u00EDnea\ de\ pedido\ se\ incluye\ un\ producto\r\n\ \ y\ el\ n\u00BA\ de\ unidades\ compradas\ de\ ese\ producto\r\n\ \ \ @author\ David\ Ganuza\r\n
+comment1.params=producto\ cantidad
+comment1.target=LineaPedido(Producto,\ int)
+comment1.text=\r\n\ Constructor\ \ \r\n
+comment2.params=
+comment2.target=Producto\ getProducto()
+comment2.text=\r\n\ accesor\ para\ el\ producto\r\n
+comment3.params=
+comment3.target=int\ getCantidad()
+comment3.text=\r\n\ accesor\ para\ la\ cantidad\ de\ producto\r\n
+comment4.params=
+comment4.target=LineaPedido\ obtenerCopia()
+comment4.text=\r\n\ obtiene\ una\ nueva\ l\u00EDnea\ de\ pedido\ copia\ id\u00E9ntica\ de\ la\ actual\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Representaci\u00F3n\ textual\ de\ la\ l\u00EDnea\ de\ pedido\r\n\ (ver\ enunciado)\r\n
+numComments=6
